@@ -81,3 +81,6 @@
 - [Halo](https://halo.run)
 - [Jerry](https://github.com/jerryc127)
 - [qinhua](https://github.com/qinhua)
+
+### 本地
+添加查找功能，不知道会不会影响到原项目。。。
